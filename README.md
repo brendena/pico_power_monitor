@@ -14,3 +14,6 @@ You'll then load the software onto the pico.  With the thorny IDE you can go to 
 
 # support lib
 * [ADS1115](https://github.com/robert-hh/ads1x15/blob/master/ads1x15.py) included the original source to be thorough 
+
+### Some helpfull links for learning how this works
+* [mqtt on micropython](https://www.tomshardware.com/how-to/send-and-receive-data-raspberry-pi-pico-w-mqtt)
